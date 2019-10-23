@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emailer</string>
+    <string name="email_address">Email address</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
